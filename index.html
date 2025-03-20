@@ -10,34 +10,46 @@
       sizes="32x32"
       href="./images/favicon-32x32.png" />
 
-    <title>Frontend Mentor | Order summary card</title>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500;700;900&display=swap"
+      rel="stylesheet" />
+    <link rel="stylesheet" href="style.css" />
+
+    <title>Order Summary Card</title>
   </head>
   <body>
     <div class="container">
-      <div>
+      <div class="image-container">
         <img
           src="./images/illustration-hero.svg"
           alt="Music illustration_dancer" />
       </div>
 
       <div class="content">
-        <h2>Order Summary</h2>
+        <h1 class="header">Order Summary</h1>
         <p>
           You can now listen to millions of songs, audiobooks, and podcasts on
           any device anywhere you like!
         </p>
-        <span>Annual Plan</span>
-        <span>$59.99/year</span>
+        <div class="plan">
+          <img src="./images/icon-music.svg" alt="music-icon" />
+          <div class="plan-text">
+            <span>Annual Plan</span>
+            <small>$59.99/year</small>
+          </div>
+          <a href="#">Change</a>
+        </div>
+
         <a href="#" class="btn">Proceed to Payment</a>
         <a href="#" class="cancel">Cancel Order</a>
       </div>
     </div>
 
-    <div class="attribution">
+    <!-- <div class="attribution">
       Challenge by
       <a href="https://www.frontendmentor.io?ref=challenge" target="_blank"
         >Frontend Mentor</a
-      >. Coded by <a href="#">Your Name Here</a>.
-    </div>
+      >. Coded by <a href="#">Chidinma Anyanwu</a>.
+    </div> -->
   </body>
 </html>
