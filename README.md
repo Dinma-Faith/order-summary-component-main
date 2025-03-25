@@ -4,7 +4,7 @@
 
 ## Welcome! 👋
 
-This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Order summary card coding challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -21,17 +21,17 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### The challenge
 
-Users should be able to:
+Your users should be able to:
 
-- See hover and focus states for all interactive elements on the page
+- See hover states for interactive elements
 
 ### Screenshot
 
-!This is a solution to the [Blog preview card challenge on Frontend Mentor](./assets/images/Blog_preview_card_solution.png)
+This is a screenshot to the [order-summery-solution](https://github.com/user-attachments/assets/0015db04-f8b5-47a0-bf88-72030522d1dd)
 
 ### Links
-- Solution URL: [Add solution URL here]()
-- Live Site URL: [Add live site URL here]()
+-  [Solution URL](https://github.com/Dinma-Faith/order-summary-component-main/tree/develop)
+-  [Live Site URL](https://dinma-faith.github.io/order-summary-component-main/)
 
 ## My process
 - Download the challenge from frontendmentor.io
